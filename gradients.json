@@ -1183,5 +1183,13 @@
     {
         "name": "Evening Night",
         "colors": ["#005AA7", "#FFFDE4"]
+    },
+    {
+        "name": "Scarlet Eclipse",
+        "colors": ["#333333", "#dd1818", "eeeeee"]
+    },
+    {
+        "name": "Rising Sun",
+        "colors": ["#eeeeee", "#dd1818"]
     }
 ]
